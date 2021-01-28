@@ -2,6 +2,6 @@
 
 int main() {
     printf("Hello, World!\n");
-    printf("Ver 1.0.123");
+    printf("Ver 1.0.1234");
     return 0;
 }
